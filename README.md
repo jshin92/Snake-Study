@@ -6,5 +6,5 @@ Boilerplate code used from http://programarcadegames.com/python_examples/f.php?f
 
 Screenshots
 -----------
-![screenshot1](/screenshots/snake_screenshot.png?raw=true)
-![screenshot2](/screenshots/snake_screenshot2.png?raw=true)
+![screenshot1](screenshots/snake_screenshot.png?raw=true)
+![screenshot2](screenshots/snake_screenshot2.png?raw=true)
